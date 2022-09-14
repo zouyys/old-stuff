@@ -374,7 +374,7 @@ local R,H,i=nil,nil,nil([[
 
 
 
-        local Aiming = loadstring(game:HttpGet("https://pastebin.com/raw/UGLDF9gW", true))()
+        local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/zouyys/old-stuff/main/macro.lua", true))()
                             Aiming.TeamCheck(false)
                              
                             
