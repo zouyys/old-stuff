@@ -401,7 +401,7 @@
 
 
 
-                            local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/zouyys/old-stuff/main/macro.lua, true))()
+                                                        local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/zouyys/old-stuff/main/macro.lua", true))()
                             Aiming.TeamCheck(false)
                              
                             
