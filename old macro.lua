@@ -401,7 +401,7 @@
 
 
 
-             local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/zouyys/old-stuff/main/macro.lua", true))()
+                                            local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/zouyys/old-stuff/main/macro.lua, true))()
                             Aiming.TeamCheck(false)
                              
                             
@@ -418,7 +418,7 @@
                             local DaHoodSettings = {
                                 SilentAim = true,
                                 AimLock = false,
-                                Prediction = 0.1344,
+                                Prediction = 0.131,
                                 AimLockKeybind = Enum.KeyCode.E
                             }
                             getgenv().DaHoodSettings = DaHoodSettings
